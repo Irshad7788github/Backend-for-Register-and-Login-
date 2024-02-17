@@ -1,0 +1,17 @@
+-----------PROJECT FOR REGISTER AND LOGIN WITH CRUD OPERATION--------- 
+
+FIRST -
+   Create a REGISTER :
+     get the model 
+     get the bcrypt for password hash
+     get jwt tokan to pass the tokan 
+     and use all the format to Gegister 
+
+secont -
+Create a LOGIN: 
+      using the password compare process 
+
+
+third -
+  Create a CRUD OPERATION-
+  
